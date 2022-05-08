@@ -1,6 +1,8 @@
 
 
-<img align="left" src="Youtube_Trends/Images_Youtube/Title_Picture.png" width="800" />
+<img align="left" src="Youtube_Trends/Images_Youtube/Title_Picture.png" width="1000" />
+
+***
 
  **Team Members:** Ray Yoon, Nikki Dao, Scott Alexander, Kenzie Gelbart
 
