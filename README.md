@@ -48,12 +48,12 @@ Whether these global trends are truly definitive of the global population as a w
  * Locations that contribute more data will have a greater effect on what the top results will be.
  * Population (in terms of a country's people) may also have an effect on defining trends. The more people that have access to Google, the more likely it is that terms from that location will be surging in popularity.
  * Some locations do not want to share information with Google, for a number of reasons. This directly affects the overall data available on Google Trends, and may indicate that some terms may be missing, or should be more/less prevalent.
-
+***
 
 #### Hypothese 2:
  
  The relationship between view counts and user interactions will determines if the specific content is trending or not. Higher the view counts, comment counts, number of likes and dislikes will put a video on trending list.
- ***
+ 
 
 >Findings and Observations: 
 
@@ -92,9 +92,9 @@ We can see that all ten countries does have strong correlation between View Coun
 This world wide scatter plot demontrates similar trends with US data. This evidence allows us to reject the hypothesis. However, it begs the questions of once the video became trending, does it acquire a new set of viewers that doesn’t like to leave interactions. Or does Youtube algorithm changes after a video became trending? Or is there other determining factors we did not include, such as subscriber count, advertisement friendly content, etc..? 
 
 #### Hypothese 3 : 
-
-The amount of tweets for the twitter accounts for each team and league in each of the top professional sports leagues will be counted to determine if there is a significant difference in popularity. This will be compared with the Google Trends data to see if the rankings are the same.
 ***
+The amount of tweets for the twitter accounts for each team and league in each of the top professional sports leagues will be counted to determine if there is a significant difference in popularity. This will be compared with the Google Trends data to see if the rankings are the same.
+
 >Findings and Observations: 
 
 We compare the British Premier League, the National Football League (NFL), the National Basketball Association (NBA) and the Major League Baseball (MLB). We examine the data from Google Trends and the Twitter API. Twitter averages more than 500 millions tweets per day and Google averages approximately 8.5 billion searches per day. 
@@ -114,15 +114,12 @@ The Google Trends data from the past week reveals different rankings than the Tw
 
 <img align="center" src="Sports_Trends_upload/Graphs/League Google Searches Year.png" width="500" />
 
-
->Findings and Observations: 
-
-
+***
 #### Hypothese 4: 
 * Pandemic and football related Google search history volume is not related: Null = 0 
 * Pandemic and football related Google search history volume is related: True = 1
 
-***
+
 >Findings and Observations: 
 
 Analysis of First Graph There is not enough data to show either historical correlation, nor that these keywords wholly represent their topics. It is possible that evolving sports search trends were caused by sports leagues taking the year off, and not because of something such as a shift in google searches affecting each other. To show proper correlation (not causation), we should have included the previous and follow up years.
