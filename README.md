@@ -101,7 +101,7 @@ We compare the British Premier League, the National Football League (NFL), the N
 
 Here is a graph showing the proportions of the total tweet count for each league. The NFL and the Premier League have nearly double the amount of tweets of the NBA and the MLB. The NFL had the highest tweet Count. 
 
-<img align="center" src="Sports_Trends_upload/Graphs/Tweet League .png" width="500" />
+<img align="center" src="Sports_Trends_upload/Graphs/Tweet League &#37.png" width="500" />
 
 Here is a graph comparing the tweet counts for each league. The premier league had the highest average per team.
 <img align="center" src="Sports_Trends_upload/Graphs/Tweet Histogram.png" width="500" />
