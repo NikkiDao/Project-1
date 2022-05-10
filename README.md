@@ -28,7 +28,7 @@
 <li>Google Trends: Is there a Correlation Between Google Search Trends for Covid-19 and Football?</li>
 </ol>
 
-#### Hypothesis 1:
+#### Hypothesis for Question 1:
  The top trends will be defined by the terms that appear the most times in the most locations.
 
  <hr>
@@ -50,7 +50,7 @@ Whether these global trends are truly definitive of the global population as a w
  * Some locations do not want to share information with Google, for a number of reasons. This directly affects the overall data available on Google Trends, and may indicate that some terms may be missing, or should be more/less prevalent.
 ***
 
-#### Hypothese 2:
+#### Hypothesis for Question 2:
  
  The relationship between view counts and user interactions will determines if the specific content is trending or not. Higher the view counts, comment counts, number of likes and dislikes will put a video on trending list.
  
@@ -91,7 +91,7 @@ We can see that all ten countries does have strong correlation between View Coun
 
 This world wide scatter plot demontrates similar trends with US data. This evidence allows us to reject the hypothesis. However, it begs the questions of once the video became trending, does it acquire a new set of viewers that doesn’t like to leave interactions. Or does Youtube algorithm changes after a video became trending? Or is there other determining factors we did not include, such as subscriber count, advertisement friendly content, etc..? 
 
-#### Hypothese 3 : 
+#### Hypothesis for Question 3 : 
 ***
 The amount of tweets for the twitter accounts for each team and league in each of the top professional sports leagues will be counted to determine if there is a significant difference in popularity. This will be compared with the Google Trends data to see if the rankings are the same.
 
@@ -115,7 +115,7 @@ The Google Trends data from the past week reveals different rankings than the Tw
 <img align="center" src="Sports_Trends_upload/Graphs/League Google Searches Year.png" width="500" />
 
 ***
-#### Hypothese 4: 
+#### Hypothesis for Question 4: 
 * Pandemic and football related Google search history volume is not related: Null = 0 
 * Pandemic and football related Google search history volume is related: True = 1
 
