@@ -35,14 +35,14 @@
 
 >Findings and Observations:
 
-<img align="left" src="Images_gtrends/toptrends2020.png"/>  
+<img align="left" src="Google_Worldwide_Trends/Images_gtrends/toptrends2020.png"/>  
 
 The top trends would be the terms that occured in the most locations, representing what the most people have searched for. After performing analysis, we can confirm that terms present in more locations are more likely to be globally trending.  
 This is possible even without the exact metrics of how many times a particular term was searched for.
 If there were publicly available metrics, more refined conclusions would be drawn.  
   
 
-<img src="Images_gtrends/loctotalterms2020.png"/>  
+<img src="Google_Worldwide_Trends/Images_gtrends/loctotalterms2020.png"/>  
 
 Whether these global trends are truly definitive of the global population as a whole, however, is something to question. It's likely that the locations with more data would have a greater influence in defining a top trend. From the data at hand, we can infer:
  * Locations that contribute more data will have a greater effect on what the top results will be.
